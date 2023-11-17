@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spoon SW388 (Low&High Poly)
+* source:	https://sketchfab.com/3d-models/spoon-sw388-lowhigh-poly-069b86d4b4a2492e92eb3349805479f9
+* author:	d2epetto (https://sketchfab.com/d2epetto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spoon SW388 (Low&High Poly)" (https://sketchfab.com/3d-models/spoon-sw388-lowhigh-poly-069b86d4b4a2492e92eb3349805479f9) by d2epetto (https://sketchfab.com/d2epetto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

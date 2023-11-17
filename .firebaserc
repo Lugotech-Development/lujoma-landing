@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ws-lujoma"
+  },
+  "targets": {
+    "ws-lujoma": {
+      "hosting": {
+        "landing": [
+          "lujoma"
+        ]
+      }
+    }
+  }
+}
