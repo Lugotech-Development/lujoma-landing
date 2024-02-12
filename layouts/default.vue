@@ -65,6 +65,18 @@
 
           <div class="d-none d-xl-flex" style="position: relative; margin-top: -70px;">
           <v-carousel  height="1025" hide-delimiters show-arrows-on-hover cycle  :show-arrows="true">
+            <div class="heroText pt-15" style="width: 100%;height: 1025px;">
+              <div class="textContainer mt-15 pt-15 pl-15" style="width:70%;">
+                <div class="title mb-15" style="font-size: 64px!important;line-height: 74px!important;">
+                  ¡Descubre todo lo que tu vehículo necesita en Multiservicios Lujoma!
+                </div>
+                <div class="description" style="font-size: 28px!important;line-height: 38px!important;">
+                  Somos tu destino para el cuidado automotriz, ofreciendo una amplia selección de piezas de calidad, incluso opciones de segunda mano para aquellos que buscan precios más accesibles.
+                  <br><br>
+                  Además de productos de alta gama, brindamos servicios de productos de alta gama, brindamos servicios de mantenimiento, asesoramiento experto y envío rápido.
+                </div>
+              </div>
+            </div>
           <v-carousel-item 
           >
           <img src="/carusel/slice1.jpg" style="width:100%;height:1025px;"/>
@@ -86,6 +98,18 @@
 
         <div class="d-none d-lg-flex d-xl-none" style="position: relative; margin-top: -70px;">
           <v-carousel  height="615" hide-delimiters show-arrows-on-hover cycle  :show-arrows="true">
+          <div class="heroText pt-15" style="width: 100%;height: 800px;">
+            <div class="textContainer mt-15 pt-15 pl-15" style="width:70%;">
+              <div class="title mb-10" style="font-size: 43px!important;line-height: 50px!important;">
+                ¡Descubre todo lo que tu vehículo necesita en Multiservicios Lujoma!
+              </div>
+              <div class="description" style="font-size: 18px!important;line-height: 21px!important;">
+                Somos tu destino para el cuidado automotriz, ofreciendo una amplia selección de piezas de calidad, incluso opciones de segunda mano para aquellos que buscan precios más accesibles.
+                <br><br>
+                Además de productos de alta gama, brindamos servicios de productos de alta gama, brindamos servicios de mantenimiento, asesoramiento experto y envío rápido.
+              </div>
+            </div>
+          </div>
           <v-carousel-item 
           >
           <img src="/carusel/slice1.jpg" style="width:100%;height:800px;"/>
@@ -107,6 +131,18 @@
 
         <div class="d-none d-md-flex d-lg-none" style="position: relative; margin-top: -70px;">
           <v-carousel  height="615" hide-delimiters show-arrows-on-hover cycle  :show-arrows="true">
+            <div class="heroText pt-15" style="width: 100%;height: 800px;">
+            <div class="textContainer mt-15 pt-15 pl-15" style="width:70%;">
+              <div class="title mb-10" style="font-size: 43px!important;line-height: 50px!important;">
+                ¡Descubre todo lo que tu vehículo necesita en Multiservicios Lujoma!
+              </div>
+              <div class="description" style="font-size: 18px!important;line-height: 21px!important;">
+                Somos tu destino para el cuidado automotriz, ofreciendo una amplia selección de piezas de calidad, incluso opciones de segunda mano para aquellos que buscan precios más accesibles.
+                <br><br>
+                Además de productos de alta gama, brindamos servicios de productos de alta gama, brindamos servicios de mantenimiento, asesoramiento experto y envío rápido.
+              </div>
+            </div>
+          </div>
           <v-carousel-item 
           >
           <img src="/carusel/slice1.jpg" style="width:100%;height:800px;"/>
@@ -130,6 +166,18 @@
 
         <div class="d-none d-sm-flex d-md-none" style="position: relative; margin-top: -70px;">
           <v-carousel  height="615" hide-delimiters show-arrows-on-hover :show-arrows="true">
+          <div class="heroText pt-15" style="width: 100%;height:615px;background-size: cover;">
+            <div class="textContainer mt-15 pt-10 px-4" style="width:90%;">
+              <div class="title mb-10" style="font-size: 32px!important;line-height:42px!important;">
+                ¡Descubre todo lo que tu vehículo necesita en Multiservicios Lujoma!
+              </div>
+              <div class="description" style="font-size: 20px!important;line-height: 22px!important;">
+                Somos tu destino para el cuidado automotriz, ofreciendo una amplia selección de piezas de calidad, incluso opciones de segunda mano para aquellos que buscan precios más accesibles.
+                <br><br>
+                Además de productos de alta gama, brindamos servicios de productos de alta gama, brindamos servicios de mantenimiento, asesoramiento experto y envío rápido.
+              </div>
+            </div>
+          </div>
           <v-carousel-item 
           >
           <img src="/carusel/slice1.jpg" style="width:100%;height:800px;"/>
@@ -156,6 +204,18 @@
           <!-- <div class="imgCenter d-none d-sm-flex" :class="{'imgCenterGo': scrollPosition > 20}">
             <img src="/LujomaFinal.png" />
           </div> -->
+          <div class="heroText pt-15" style="width: 100%;height:400px;background-size: cover;">
+            <div class="textContainer mt-15 pt-0 px-4" style="width:100%;">
+              <div class="title mb-4" style="font-size: 16px!important;line-height:26px!important;">
+                ¡Descubre todo lo que tu vehículo necesita en Multiservicios Lujoma!
+              </div>
+              <div class="description" style="font-size: 12px!important;line-height: 14px!important;">
+                Somos tu destino para el cuidado automotriz, ofreciendo una amplia selección de piezas de calidad, incluso opciones de segunda mano para aquellos que buscan precios más accesibles.
+                <br><br>
+                Además de productos de alta gama, brindamos servicios de productos de alta gama, brindamos servicios de mantenimiento, asesoramiento experto y envío rápido.
+              </div>
+            </div>
+          </div>
           <v-carousel-item 
           >
           <img src="/carusel/slice1.jpg" style="width:100%;height:400px;"/>
@@ -247,6 +307,23 @@ export default {
 }
 }
 </script>
+
+<style lang="scss">
+.v-window__next{
+  z-index: 99!important;
+}
+.v-window__prev{
+  z-index: 99!important;
+}
+
+.v-navigation-drawer{
+  z-index: 999!important;
+}
+
+.navBar{
+  z-index: 999!important;
+}
+</style>
 
 <style lang="scss" scoped>
 @keyframes off{
@@ -387,6 +464,7 @@ export default {
       background-color: rgba(255, 255, 255, .2) !important;
       // background-color: rgba(255, 255, 255, 1) !important;
       backdrop-filter: saturate(180%) blur(20px);
+      z-index: 999;
        a{
         color: white;
         text-decoration: none;
@@ -401,4 +479,28 @@ export default {
         text-decoration: none;
       }
     }
+
+    .heroText{
+      position: absolute;
+      z-index: 9;
+      background: url('/hero.svg') no-repeat;
+      background-size: contain;
+      color: #FFF;
+
+      .title{
+        width: 80%;
+        font-weight: 700!important;
+        letter-spacing: 0em!important;
+        text-align: left;
+      }
+
+      .description{
+        width: 68%;
+        font-weight: 400!important;
+        letter-spacing: 0em!important;
+        text-align: justified!important;
+      }
+    }
+
+    
 </style>
